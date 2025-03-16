@@ -1,0 +1,77 @@
+/* Header Container */
+.Header {
+  /*position: fixed;*/
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 0; /* No extra padding */
+  gap: 10px;
+  background-color: #092f5e;
+}
+
+/* Basic Card - Full Width */
+.basic {
+  background-color: #092f5e;
+  padding: 10px 20px; /* Adjust padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center; /* Keep everything at the top */
+  justify-content: space-between; /* Name on left, links on right */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Name (H1 - Left Aligned) */
+.name {
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  color: white;
+  margin: 0; /* Remove margin */
+  padding: 0; /* Remove padding */
+}
+
+/* Links (Right-Aligned) */
+.links {
+  display: flex;
+  flex-wrap: wrap; /* Prevents overflow */
+  gap: 15px;
+  margin-left: auto; /* Pushes links to the right */
+}
+
+/* Links Styling */
+.links a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 16px;
+  white-space: nowrap; /* Prevents wrapping */
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .basic {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .links {
+    justify-content: center;
+    margin-left: 0;
+  }
+}
+
+.about {
+  margin-left: 21px; /* Adds a small space from the left */
+  padding: 0; /* Remove padding */
+  line-height: 15px;
+  width: fit-content; /* Makes it as wide as its content */
+  overflow-wrap: break-word; /* Forces long words to break */
+
+}

@@ -1,0 +1,5 @@
+ 	Performance-driven professional with over two years of comprehensive experience in the software development domain, specializing in back-end development within the technology industry.
+	;Currently engaged as a Software Developer at Amdocs, responsible for backend development and support, contributing to the enhancement of application performance and functionality through innovative coding practices.
+	;Developed a diverse skill set encompassing UNIX Shell Scripting, Oracle SQL, and Java Spring Boot, while actively participating in the software development lifecycle, including coding, design, and operational feasibility assessments.
+	;Gained exposure on process requirements and provided use cases for business, functional & technical requirements.
+	;Understanding of Software Development Lifecycle (SDLC) right from requirement analysis, documentation (functional specifications, technical design), coding to maintenance of proposed applications.;

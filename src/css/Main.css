@@ -1,0 +1,89 @@
+
+/* Main Content - Responsive */
+.Main {
+  flex: 1;
+  padding: 0px;
+  background-color: #1473a9;
+  overflow-y: auto;
+  margin-top: 15px; /* Prevents overlap with fixed header */
+  margin-bottom: 15px; /* Prevents overlap with fixed footer */
+  text-align: center;
+  font-family: Arial, sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .Main {
+      padding: 0px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .Main {
+      padding: 0px;
+      margin-top: 45px;
+      margin-bottom: 45px;
+  }
+}
+
+.circle {
+  width: 150px; /* Adjust size as needed */
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden; /* Ensures the image stays within the circle */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin: auto;
+}
+
+.circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image fills the circle properly */
+}
+
+.circle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* Space between the lines and the circle */
+}
+
+.line {
+  width: 60px; /* Length of the curved line */
+  height: 30px; /* Height to create the curve effect */
+  border-top: 3px solid black; /* Top border creates the curve */
+  border-radius: 50px; /* Makes the line curved */
+}
+
+
+
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch; /* Makes all children (skill-box) the same height */
+  padding: 20px;
+  gap: 20px; /* Adds space between cards */
+}
+
+.skill-box {
+  text-align: center;
+  flex: 1;
+  min-width: 300px;
+  max-width: 500px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column; /* Ensures content expands evenly */
+}
+
+.skill-box > div {
+  flex-grow: 1; /* Ensures inner content takes full available height */
+}

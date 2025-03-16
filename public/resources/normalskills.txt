@@ -1,0 +1,11 @@
+Change Agent;
+Collaborator;
+Communicator;
+Planner;
+Software Development Lifecycle;
+Design & Development;
+Code Configuration;
+Application Integration;
+Performance Tuning;
+Requirement Gathering;
+

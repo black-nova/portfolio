@@ -1,0 +1,35 @@
+Nov’20 - Dec’20, Web Developer Internship at Sri Technocrat, Remote;
+Responsibilities:;
+During my HTML, CSS, and JavaScript internship, I gained hands-on experience in front-end web development. 
+I worked on building responsive web pages using HTML for structure, CSS for styling, and JavaScript for interactivity. 
+I collaborated with a team, improving my coding, debugging, and problem-solving skills. The internship also introduced 
+me to modern frameworks and best practices in web design. Overall, it was a valuable experience that strengthened my foundation 
+in web development.;
+
+Jul’21 - Aug’21, Web Developer Internship at Teinstein, Remote;
+Responsibilities:;
+During my Python development internship, I gained hands-on experience in building applications using Python. 
+I worked on writing efficient code, debugging errors, and implementing algorithms for real-world projects. 
+I collaborated with a team to develop backend solutions, automate tasks, and work with databases. 
+The internship also introduced me to frameworks like Django and Flask, 
+improving my understanding of web development. Overall, it was a valuable experience that strengthened my problem-solving and coding skills.;
+
+Jan’22 - Apr’22, Java Developer Internship at Capgemini, Remote;
+Responsibilities:;
+During my Java development internship, I gained hands-on experience in building applications using Java. 
+I worked on writing clean and efficient code, debugging errors, and implementing object-oriented programming concepts. 
+I collaborated with a team to develop backend solutions, work with databases, and optimize application performance. 
+The internship also introduced me to frameworks like Spring Boot, enhancing my understanding of web development. 
+Overall, it was a valuable experience that strengthened my problem-solving and software development skills.; 🚀
+
+
+Jun’22 - Present, Software Developer at Amdocs, Pune;
+Responsibilities:;
+Spearheading back-end development initiatives for various applications, ensuring robust functionality and seamless integration with existing systems to enhance overall performance.
+Collaborating with cross-functional teams to gather requirements, analyze user needs, and develop software solutions that align with business objectives and user expectations.
+Conducting thorough feasibility studies and problem definitions to identify potential challenges and devise effective solutions that optimize operational efficiency.
+Engaging in the design and implementation of backend systems, utilizing advanced programming techniques to ensure high-quality code and maintainable architecture.
+Overseeing the execution of Oracle SQL queries and Java code to support application functionalities, ensuring data integrity and optimal performance.
+Participating in code reviews and providing constructive feedback to peers, fostering a culture of continuous improvement and knowledge sharing within the development team.
+Monitoring application performance metrics and implementing enhancements to address any identified issues, thereby improving user satisfaction and system reliability.;
+
