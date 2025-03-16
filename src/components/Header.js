@@ -38,7 +38,7 @@ render() {
     <br/>
 
     <div className='about' id='abt'>
-        <h1 style={{color:'white'}}>
+        <h1 className='head_name' style={{color:'white',fontSize: '3vw'}}>
             Hi, I'm Shashwat Chaturvedi
         </h1>
         <h2 style={{color:'#5dc6db'}}>
