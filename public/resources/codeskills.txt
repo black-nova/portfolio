@@ -4,4 +4,4 @@ Message and Streaming Middleware: Kafka, Zookeeper;
 Cloud Platforms: AWS (Certified AWS Cloud Practitioner);
 Databases: MySQL, PostgreSQL;
 Version Control: Git, GitHub;
-Other Skills: Microservices, Telecom Business Knowledge, Agile Development Practices, Unix,Docker;
+Other Skills: Microservices, Telecom Business Knowledge, Agile Development Practices, Unix, Docker;
