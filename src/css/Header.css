@@ -4,6 +4,7 @@
   top: 0;
   left: 0;
   width: 100%;
+  background-color: #333;
   display: flex;
   flex-direction: column;
   align-items: stretch;
@@ -70,8 +71,16 @@
 .about {
   margin-left: 21px; /* Adds a small space from the left */
   padding: 0; /* Remove padding */
-  line-height: 15px;
+  line-height: 1.5;
   width: fit-content; /* Makes it as wide as its content */
+  word-wrap: break-word; 
   overflow-wrap: break-word; /* Forces long words to break */
+  max-width: 90%; /* Prevents it from getting too wide */
+}
 
+@media (max-width: 600px) {
+  .about {
+    font-size: 1rem; /* Adjust font size for smaller screens */
+    line-height: 1.2; /* Slightly reduce line height */
+  }
 }
