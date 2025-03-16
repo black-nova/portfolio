@@ -87,6 +87,6 @@
 
 @media (max-width: 600px) {
   .head_name {
-      font-size: 24px; /* Smaller font for mobile */
+      font-size: 25px; /* Smaller font for mobile */
   }
 }
